@@ -1,0 +1,220 @@
+Uri: https://alfatekyazilim.com.tr/
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\index.htm
+Content Type: text/html
+
+Uri: https://alfatekyazilim.com.tr/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://alfatekyazilim.com.tr/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://alfatekyazilim.com.tr/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://alfatekyazilim.com.tr/css/animate.css
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\css\animate.css
+Content Type: text/css
+
+Uri: https://alfatekyazilim.com.tr/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://alfatekyazilim.com.tr/css/materialdesignicons.min.css
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\css\materialdesignicons.min.css
+Content Type: text/css
+
+Uri: https://alfatekyazilim.com.tr/css/owl.carousel.css
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://alfatekyazilim.com.tr/css/owl.video.play.html
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\css\owl.video.play.html
+Content Type: text/html
+
+Uri: https://alfatekyazilim.com.tr/css/style.css
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\css\style.css
+Content Type: text/css
+
+Uri: https://alfatekyazilim.com.tr/fonts/materialdesignicons-webfont255f.eot?v=4.8.95
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\fonts\materialdesignicons-webfont255f.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alfatekyazilim.com.tr/fonts/materialdesignicons-webfont255f.ttf?v=4.8.95
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\fonts\materialdesignicons-webfont255f.ttf
+Content Type: application/octet-stream
+
+Uri: https://alfatekyazilim.com.tr/fonts/materialdesignicons-webfont255f.woff2?v=4.8.95
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\fonts\materialdesignicons-webfont255f.woff2
+Content Type: font/woff2
+
+Uri: https://alfatekyazilim.com.tr/fonts/materialdesignicons-webfont255f.woff?v=4.8.95
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\fonts\materialdesignicons-webfont255f.woff
+Content Type: font/woff
+
+Uri: https://alfatekyazilim.com.tr/fonts/materialdesignicons-webfontd41d.eot?
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\fonts\materialdesignicons-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alfatekyazilim.com.tr/images/aboutus/about01.svg
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\images\aboutus\about01.svg
+Content Type: image/svg+xml
+
+Uri: https://alfatekyazilim.com.tr/images/aboutus/about02.svg
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\images\aboutus\about02.svg
+Content Type: image/svg+xml
+
+Uri: https://alfatekyazilim.com.tr/images/dark-logo.png
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\images\dark-logo.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/images/down-arrow.png
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\images\down-arrow.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/images/favicon.png
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\images\favicon.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/images/features/started-bg.jpg
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\images\features\started-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://alfatekyazilim.com.tr/images/features/step-hover-img.jpg
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\images\features\step-hover-img.jpg
+Content Type: image/jpeg
+
+Uri: https://alfatekyazilim.com.tr/images/inner-banner.jpg
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\images\inner-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://alfatekyazilim.com.tr/images/itempazar.png
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\images\itempazar.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/images/logo.png
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\images\logo.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/images/slider-img/home-bg.jpg
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\images\slider-img\home-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://alfatekyazilim.com.tr/images/slider-img/phones2.png
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\images\slider-img\phones2.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/images/title-decoration.png
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\images\title-decoration.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/images/works/how-works.png
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\images\works\how-works.png
+Content Type: image/png
+
+Uri: https://alfatekyazilim.com.tr/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://alfatekyazilim.com.tr/js/jquery.easing.min.js
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\js\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://alfatekyazilim.com.tr/js/jquery.enllax.min.js
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\js\jquery.enllax.min.js
+Content Type: application/javascript
+
+Uri: https://alfatekyazilim.com.tr/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://alfatekyazilim.com.tr/js/main.js
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\js\main.js
+Content Type: application/javascript
+
+Uri: https://alfatekyazilim.com.tr/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://alfatekyazilim.com.tr/js/parallax.js
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\js\parallax.js
+Content Type: application/javascript
+
+Uri: https://alfatekyazilim.com.tr/js/popper.min.js
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://alfatekyazilim.com.tr/js/typed.min.js
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\js\typed.min.js
+Content Type: application/javascript
+
+Uri: https://alfatekyazilim.com.tr/js/wow.min.js
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.itemsatis.com/global/logo/original/zeminsiz2.png
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\global\logo\original\zeminsiz2.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600&display=swap
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\alfatekyazilim.com.tr\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
